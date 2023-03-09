@@ -1,0 +1,38 @@
+body {
+	background-color: #23395d;
+}
+
+.centerer {
+	height: 95vh;
+	display: grid;
+	justify-content: center;
+	align-content: center;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: inherit;
+	color: white;
+	margin: 0;
+}
+button {
+	background-color: rgba(0,0,0,0);
+	border: 2px solid white;
+	border-radius: 20px;
+	font-size: 2em;
+	color: white;
+}
+
+.bottom-wrapper {
+	display: flex;
+}
+
+#btn2 {
+	font-size: 1em;
+	margin: 0 auto;
+	padding: 4px 14px;
+}
+
+.dark {
+	background-color: #152238;
+}
